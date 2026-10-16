@@ -456,7 +456,7 @@
         "source": "url",
         "url": "https://github.com/costory-io/costory-finops-mcp-skills.git",
         "path": "plugins/costory",
-        "sha": "3c36540d3b53366bc8cce1da8adac357980b8588"
+        "sha": "607562e9b5c51803b4c69c1568b950506a925155"
       },
       "homepage": "https://www.costory.io",
       "keywords": ["costory", "costory finops", "costory mcp", "costory cost allocation"],

@@ -333,8 +333,8 @@
       }
     },
     "costory": {
-      "sha": "3c36540d3b53366bc8cce1da8adac357980b8588",
-      "version": "0.12.4",
+      "sha": "607562e9b5c51803b4c69c1568b950506a925155",
+      "version": "0.12.5",
       "components": {
         "mcpServers": [
           {
