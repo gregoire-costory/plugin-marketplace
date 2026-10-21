@@ -450,7 +450,7 @@
     },
     {
       "name": "costory",
-      "description": "Turn Grok into a FinOps agent: connects Costory's hosted MCP server (OAuth, no local process) for allocated AWS, GCP, Azure, Kubernetes, SaaS and AI cost, plus skills to investigate cost changes, query spend, allocate shared cost to teams (virtual dimensions), and build dashboards, scheduled reports and alerts. Sign in with your Costory account on first connection; free trial available.",
+      "description": "FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO. Starter $300/mo, 30-day free trial. Your agent finds savings, explains every change in spend and issues recommendations that your coding agent can implement.",
       "category": "monitoring",
       "source": {
         "source": "url",
